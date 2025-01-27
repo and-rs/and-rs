@@ -21,17 +21,17 @@
   <tr>
     <div align="center">
       <img alt="Static Badge" src="https://img.shields.io/badge/bash-210a85?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/typescript-fff?style=for-the-badge">
+      <img alt="Static Badge" src="https://img.shields.io/badge/typescript-f3f1fe?style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/python-210a85?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/lua-fff?style=for-the-badge">
+      <img alt="Static Badge" src="https://img.shields.io/badge/lua-f3f1fe?style=for-the-badge">
     </div>
   </tr>
   <tr>
     <div align="center">
       <img alt="Static Badge" src="https://img.shields.io/badge/django-210a85?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/node.js-fff?style=for-the-badge">
+      <img alt="Static Badge" src="https://img.shields.io/badge/node.js-f3f1fe?style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/react-210a85?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/next.js-fff?style=for-the-badge">
+      <img alt="Static Badge" src="https://img.shields.io/badge/next.js-f3f1fe?style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/hydrogen-210a85?style=for-the-badge">
     </div>
   </tr>
