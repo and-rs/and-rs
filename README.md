@@ -1,4 +1,4 @@
-## · Juan ·
+## · Juan Andres ·
 
 <table align="center">
   <tr>
@@ -18,12 +18,14 @@
 ## Skills
 
 <div align="center">
-  <img alt="Badge" src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white" />
-  <img alt="Badge" src="https://img.shields.io/badge/react-F72585?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Badge" src="https://img.shields.io/badge/node.js-B5179E?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Badge" src="https://img.shields.io/badge/python-7209B7?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Badge" src="https://img.shields.io/badge/sql-560BAD?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Badge" src="https://img.shields.io/badge/TypeScript-480CA8?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Badge" src="https://img.shields.io/badge/css-3F37C9?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Badge" src="https://img.shields.io/badge/html-4361EE?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="Static Badge" src="https://img.shields.io/badge/bash-000000?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/react-fff?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/node.js-000?style=for-the-badge">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/typescript-fff?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/sql-000?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/tailwind-fff?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/python-000?style=for-the-badge">
+
+
 </div>
