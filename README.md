@@ -1,38 +1,28 @@
 ## · Juan Andres ·
 
-<table align="center">
-  <tr>
-    <td align="center" width="60%">
-      I am a self-taught developer interested in front-end, back-end and infrastucture. I believe in designing things with passion to solve problems correctly with usability and aesthetics in mind. Sometimes I tinker with lua and neovim, use python for data exploration and create bash scripts to automate workflows. 
-      <br /><br />
-      C1 English · A2 German · Native Spanish
-      <br /><br />
-      <img alt="Counter" src="https://profile-counter.glitch.me/JuanBaut/count.svg" />
-    </td>
-    <td align="center" width="40%">
-      <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
-    </td>
-  </tr>
-</table>
+Currently I'm a Data Engineer @ LogicSource. Although I'd like to work at a startup, hit me up if you know of or have any opportunities open.
 
-## Skills
+I am a self-taught developer interested in front-end, back-end and infrastucture. I believe in designing things with passion to solve problems correctly with usability and aesthetics in mind. Sometimes I tinker with lua and neovim, use python for data exploration and create bash scripts to automate workflows. C1 English and Native Spanish
 
-<table>
-  <tr>
-    <div align="center">
-      <img alt="Static Badge" src="https://img.shields.io/badge/bash-210a85?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/typescript-f3f1fe?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/python-210a85?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/lua-f3f1fe?style=for-the-badge">
-    </div>
-  </tr>
-  <tr>
-    <div align="center">
-      <img alt="Static Badge" src="https://img.shields.io/badge/django-210a85?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/node.js-f3f1fe?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/react-210a85?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/next.js-f3f1fe?style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/hydrogen-210a85?style=for-the-badge">
-    </div>
-  </tr>
-</table>
+_Check out my [portfolio](https://andres.contact)_
+
+## languages I use
+
+| Web        | Data   | DX   |
+| ---------- | ------ | ---- |
+| TypeScript | Python | Lua  |
+| JavaScript | SQL    | Bash |
+
+## frameworks/libs/tools I use
+
+| Front-end | Back-end | AWS (Cloud) | Data Analysis | Dev Tooling |
+| --------- | -------- | ----------- | ------------- | ----------- |
+| React     | Bun      | RDS         | Numpy         | uv          |
+| Next.js   | Hono     | EC2         | Pandas        | pnpm        |
+| SolidJS   | Drizzle  | Lamda       | Seaborn       | bash        |
+| Tailwind  | Node.js  | CDK & SDK   | Scikit-learn  | docker      |
+| Shadcn/UI | Express  |             |               | hurl & curl |
+
+## dum little counter
+
+<img alt="Counter" src="https://profile-counter.glitch.me/JuanBaut/count.svg" />
