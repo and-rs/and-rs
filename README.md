@@ -15,13 +15,13 @@ _Check out my [portfolio](https://andres.contact)_
 
 ## frameworks/libs/tools I use
 
-| Front-end | Back-end | AWS (Cloud) | Data Analysis | Dev Tooling |
-| --------- | -------- | ----------- | ------------- | ----------- |
-| React     | Bun      | RDS         | Numpy         | uv          |
-| Next.js   | Hono     | EC2         | Pandas        | pnpm        |
-| SolidJS   | Drizzle  | Lamda       | Seaborn       | bash        |
-| Tailwind  | Node.js  | CDK & SDK   | Scikit-learn  | docker      |
-| Shadcn/UI | Express  |             |               | hurl & curl |
+| Front-end | Back-end | AWS Cloud | Data Analysis | Dev Tooling |
+| --------- | -------- | --------- | ------------- | ----------- |
+| React     | Bun      | RDS       | Numpy         | uv          |
+| Next.js   | Hono     | EC2       | Pandas        | pnpm        |
+| SolidJS   | Drizzle  | Lamda     | Seaborn       | bash        |
+| Tailwind  | Node.js  | CDK & SDK | Scikit-learn  | docker      |
+| Shadcn/UI | Express  |           |               | hurl & curl |
 
 ## dum little counter
 
