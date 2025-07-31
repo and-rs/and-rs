@@ -20,7 +20,3 @@ I am a self-taught developer interested in front-end, back-end and infrastucture
 | SolidJS   | Drizzle  | Lamda     | Seaborn       | bash        |
 | Tailwind  | Node.js  | CDK & SDK | Scikit-learn  | docker      |
 | Shadcn/UI | Express  |           |               | hurl & curl |
-
-## dum little counter
-
-<img alt="Counter" src="https://profile-counter.glitch.me/and-rs/count.svg" />
