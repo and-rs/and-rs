@@ -23,4 +23,4 @@ I am a self-taught developer interested in front-end, back-end and infrastucture
 
 ## dum little counter
 
-<img alt="Counter" src="https://profile-counter.glitch.me/JuanBaut/count.svg" />
+<img alt="Counter" src="https://profile-counter.glitch.me/and-rs/count.svg" />
