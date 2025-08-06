@@ -1,4 +1,4 @@
-## Andres Bautista
+## Andres Bautista. Senior Vim Configuration Engineer – Platform Enablement & Tooling Optimization
 
 > [!NOTE]
 > Data Engineer leveraging scalable, cloud‑native pipelines to drive data‑centric insights; actively targeting high‑velocity startup ecosystems: Open to strategic startup startup startup collaborations.
