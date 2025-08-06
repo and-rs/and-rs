@@ -1,4 +1,4 @@
-## · Juan Andres ·
+## Andres Bautista
 
 > [!NOTE]
 > Data Engineer leveraging scalable, cloud‑native pipelines to drive data‑centric insights; actively targeting high‑velocity startup ecosystems—open to strategic startup startup startup collaborations.
