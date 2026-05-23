@@ -1,4 +1,4 @@
-## Andres Bautista. 
+## Andres
 <p>Senior Vim Configuration Engineer – Platform Enablement & Tooling Optimization.</p>
 <p>There is no language that is better than any other language, there are only better developers. Don't @ me.</p>
 
